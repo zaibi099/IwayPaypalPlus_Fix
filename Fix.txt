@@ -1,0 +1,1 @@
+It didn't work on Magento 2.2.4 with Agreement sections enabled ( i had another payment method that wasnt in its own ifram but ourtside its body ) BUT as it was active by default so i had to click the agreement points for this too even if i check agreement points on other payment method. Than i modified its code and JS after to make it work. It was tiredsome.
